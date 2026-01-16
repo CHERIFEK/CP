@@ -1,5 +1,10 @@
 {
   "name": "Culture Pulse",
+  "short_name": "Pulse",
   "description": "An anonymous team culture survey dashboard with AI-powered action plans to improve workplace morale.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
   "requestFramePermissions": []
 }
